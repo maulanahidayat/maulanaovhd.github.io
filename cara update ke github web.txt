@@ -1,0 +1,4 @@
+buka git bash lewat vscode/terminal
+ketikkan git add.
+ketikkan git commit -m "pesannya"
+ketikkan git push
